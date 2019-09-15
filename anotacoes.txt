@@ -1,4 +1,11 @@
-# ...
+# node-004-blt-searchengine
 
 # Anotacoes:
-- ...
+- Instalar o express.
+    npm i -g express-generator
+- Na pasta do projeto, criar a estrutura do express.
+    express -e --git node-004-blt-searchengine
+- Instalar as extensões para o MongoDB.
+    npm install -S mongoose mongodb
+- Instalar todas as dependencias.
+    npm install
