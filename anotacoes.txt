@@ -11,3 +11,5 @@
     npm install
 - Criado o banco de dados "node-004-blt-searchengine".
 - Adicionar dados na collection "clientes".
+- Iniciar o projeto.
+    npm start
